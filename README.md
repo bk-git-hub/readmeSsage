@@ -4,13 +4,13 @@
 
 <http://logo_link>
 
-## Badges
+### Badges
 
-### Include some badges such as build status, test coverage, etc.
+#### Include some badges such as build status, test coverage, etc.
 
 <http://badge_link>
 
-## Features
+### Features
 
 - Feature1
 - Feature2
@@ -18,7 +18,7 @@
 
 ---
 
-## Installation
+### Installation
 
     git clone https://github.com/username/projectname.git;
     cd projectname;
