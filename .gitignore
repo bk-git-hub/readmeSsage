@@ -1,0 +1,9 @@
+# Ignore .ssh and .vscode directories
+.ssh
+.vscode
+
+# Ignore data/ directory
+data/
+
+# Ignore all files in the data/ directory
+data/*
