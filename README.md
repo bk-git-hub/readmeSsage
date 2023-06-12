@@ -20,6 +20,10 @@
 
 ### Installation
 
-    * git clone https://github.com/username/projectname.git; *
-    * cd projectname; *
-    * pip install requirements.txt; *
+```
+
+    git clone https://github.com/username/projectname.git
+    cd projectname
+    pip install requirements.txt
+
+```
